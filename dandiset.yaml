@@ -30,7 +30,7 @@ citation: 'Filipe, A. Carolina; Park, Il Memming (2024) NeuroTask - Key Grasp: A
   set]. DANDI archive. https://dandiarchive.org/dandiset/001059/draft'
 contributor:
 - affiliation: []
-  email: a.carolina.filipe@gmail.com
+  email: carolina.filipe@research.fchampalimaud.org
   includeInCitation: true
   name: Filipe, A. Carolina
   roleName:
@@ -45,7 +45,7 @@ description: 'NeuroTask is a benchmark dataset designed to facilitate the develo
   neural data. NeuroTask integrates 6 datasets from motor cortical regions, covering
   7 tasks across 17 subjects.
 
-  Check out the github repository for more resources and some example notebooks: https://github.com/catniplab/NeuroTask/
+  Check out the github repository for more resources and some example notebooks: https://github.com/catniplab/NeuroTask/tree/nwb
 
 
   This dataset includes:
